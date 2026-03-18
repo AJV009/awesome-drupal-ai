@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome" width="400">
+<img src="assets/drupal-icon.svg" alt="Drupal" width="120" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/awesome-sunglasses.svg" alt="Awesome" width="250">
 
 <br>
 <br>
@@ -538,36 +538,6 @@ Drupal Recipes distribute modules + configuration + permissions in one step. See
 - [TheDropTimes: 30 Drupal AI Modules](https://www.thedroptimes.com/50956/30-drupal-ai-framework-and-integration-modules-you-should-know) — Broad module overview
 - [DrupalForge: 30 AI Frameworks and Integration Modules](https://www.drupalforge.org/blog/drupal-ai-landscape-30-frameworks-integration-modules-you-should-know) — Landscape overview with demos
 - [Drupalize.Me: Drupal AI Setup Guide](https://drupalize.me/blog/drupal-ai-how-set-it-and-try-it-out) — Getting started guide
-
-### Key People
-
-| Person | Organization | Known For |
-|--------|-------------|-----------|
-| Dries Buytaert | Acquia / Drupal | Strategic oversight; 2026 roadmap; ai.drupal.org |
-| Marcus Johansson | FreelyGive | Technical leadership; AI Automators; AI module 1.3 |
-| Matthew Grasmick | Acquia | drupal-claude-skills (★ 24); Acquia CLI / BLT creator |
-| Scott Falconer | — | drupal-contribute-fix skill; Talking Drupal; DrupalCon Chicago AI Summit |
-| Matt Glaman | — | drupalorg-cli; agentic workflows; Talking Drupal |
-| Andy Giles | — | Agentic workflows; Canvas CLI; Talking Drupal #538 |
-| Jürgen Haas | — | ECA module; orchestration; Talking Drupal #537 |
-| Baddý Breidert | 1xINTERNET | Governance; funding; product direction |
-| Christoph Breidert | 1xINTERNET | Product roadmap; DrupalCon workshops |
-| Jacob Rockowitz | — | Webform module; AI mentoring blog; plan-first advocacy |
-| Ronald te Brake | — | AI Coding Starter Kit proposal; Surge module; coding standards skill |
-| Mark Conroy | — | AI Single Page Importer module |
-| Goran Nikolovski | — | Most prolific AI workflow blogger (7+ posts) |
-| Bálint Pekker | Cheppers | AI code review integration |
-| Albert Skibinski | — | MCP + Drupal exploration; blog series |
-| Mateu Aguiló Bosch | — | ddev-assistant-claude; JSON:API maintainer |
-| Michael Schmid | amazee.io / amazee.ai | Privacy AI infrastructure; Talking Drupal #515 |
-| Vincenzo Gambino | QED42 | AI Agents development; DrupalCon workshops |
-| Gábor Hojtsy | — | Drupal Module Upgrader revival; Drupal 11 readiness |
-| Dominique De Cooman | Dropsolid | Fundraising; Drupal AI Academy |
-| Frederik Wouters | Dropsolid | Head of Innovation; training; DrupalCon workshops |
-| Kristen Pol | Salsa Digital | Cross-team alignment; DrupalCon Chicago keynote |
-| Lenny Moskalyk | AI Makers | Community builder; AI Makers meetup |
-| Mike Anello | DrupalEasy | Training; "Responsible Drupal AI Basics" workshops |
-| Kevin Quillen | Velir | AI module maintainer; semantic search |
 
 ---
 
