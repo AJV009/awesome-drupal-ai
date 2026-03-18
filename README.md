@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/drupal-icon.svg" alt="Drupal" width="120" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/awesome-sunglasses.svg" alt="Awesome" width="250">
+<img src="assets/drupal-icon.svg" alt="Drupal" width="120" height="120" style="vertical-align: middle;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/awesome-sunglasses.svg" alt="Awesome" width="250" style="vertical-align: middle;">
 
 <br>
 <br>
