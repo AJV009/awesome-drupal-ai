@@ -225,10 +225,10 @@ Drupal lacks unified AI-assisted development approach. Current ecosystem is "fra
 
 ## Managed Claude Stack (MCS) — Configuration Engine for Claude Code
 
-- **URL:** https://github.com/bguidolim/mcs
-- **Stars:** 65 | **Forks:** 4 | **License:** MIT
+- **URL:** https://github.com/mcs-cli/mcs | **Website:** https://mcs-cli.dev
+- **Stars:** 84 | **Forks:** 7 | **License:** MIT
 - **Language:** Swift (macOS 13+)
-- **Install:** `brew install bguidolim/tap/managed-claude-stack`
+- **Install:** `brew install mcs-cli/tap/mcs`
 - **Description:** Configuration engine for Claude Code that packages development environments into shareable "tech packs." Tech packs are Git-based repos with `techpack.yaml` manifests bundling MCP servers, plugins, hooks, skills, commands, and settings.
 
 ### Key Features
@@ -246,9 +246,11 @@ mcs doctor                  # Verify setup
 ```
 
 ### Example Packs
-- `mcs-core-pack` — Foundational Claude Code settings
-- `mcs-continuous-learning` — Persistent memory across sessions
-- `mcs-ios-pack` — Xcode/Swift integration
+- `mcs-cli/dev` — Foundational Claude Code settings
+- `mcs-cli/memory` — Persistent memory across sessions
+- `mcs-cli/ios` — Xcode/Swift integration
+
+Browse all packs at [techpacks.mcs-cli.dev](https://techpacks.mcs-cli.dev)
 
 ### Drupal Relevance
 - **Not Drupal-specific yet**, but a Drupal/DDEV tech pack could bundle all Drupal skills, MCP servers, and DDEV integrations into one installable pack

@@ -409,7 +409,7 @@ Additional providers available via the AI module: AWS Bedrock, Azure OpenAI, Hug
 
 ### Claude Code Configuration & Orchestration
 
-- [bguidolim/managed-claude-stack (MCS)](https://github.com/bguidolim/mcs) (★ 65) — Config engine for Claude Code; shareable "tech packs" bundle MCP servers, plugins, hooks, skills, commands; convergence sync, drift detection, lockfiles; `brew install bguidolim/tap/managed-claude-stack` ★★★★
+- [mcs-cli/mcs (MCS)](https://mcs-cli.dev) (★ 84) — Config engine for Claude Code; shareable "tech packs" bundle MCP servers, plugins, hooks, skills, commands, agents; convergence sync, drift detection, lockfiles; `brew install mcs-cli/tap/mcs` ★★★★
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) (★ 10,100+) — Multi-agent orchestration for Claude Code; 32 agents; Ralph/Autopilot/Ultrawork modes; smart model routing; 30-50% token savings ★★★★
 - [ngxtm/devkit](https://github.com/ngxtm/devkit) — 414+ skills, 38 agents, 57 commands; multi-tool (Claude, Cursor, Copilot, Gemini); smart tech detection; no Drupal skills yet ★★★
 
