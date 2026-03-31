@@ -404,7 +404,7 @@ Additional providers available via the AI module: AWS Bedrock, Azure OpenAI, Hug
 
 ### Drupal-Specific CLI Tools
 
-- [drupalorg-cli 0.8.0](https://mglaman.dev) — `--format=llm` flag formats issue/MR output for AI agent consumption; essential for contribution skills ★★★★
+- [mglaman/drupalorg-cli](https://github.com/mglaman/drupalorg-cli) — CLI for Drupal.org issue and MR workflows; `--format=llm` flag formats output for AI agent consumption; GitLab fork and MR commands in v0.8.0 ★★★★
 - [drupal/surge](https://www.drupal.org/project/surge) — Aggregates agent skills; compiles AGENTS.md; `composer surge-standards` and `composer surge-scan` ★★★
 
 ### Claude Code Configuration & Orchestration
