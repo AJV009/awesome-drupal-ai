@@ -31,11 +31,9 @@
 - [Specifications & Standards](#specifications--standards) - agentskills.io, AGENTS.md, llms.txt.
 - [Cross-CMS Patterns](#cross-cms-patterns) - How Laravel, Shopware, WordPress compare.
 
-## The Starter Pack
+## Quick setups
 
-The fastest path to AI-assisted Drupal development. All tested, all recommended. Install in order.
-
-### Step 1: Environment (DDEV Addons)
+### Environment (DDEV Addons)
 
 ```bash
 # Claude Code inside your DDEV container
@@ -48,7 +46,7 @@ ddev get Drupal-AI/ddev-drupal-ai
 ddev get tyler36/ddev-ollama
 ```
 
-### Step 2: Agent Skills
+### Agent Skills
 
 ```bash
 # Module development skill with 13 Drupal API reference docs (Composer)
@@ -63,7 +61,7 @@ git clone https://github.com/scottfalconer/drupal-contribute-fix \
   .claude/skills/drupal-contribute-fix
 ```
 
-### Step 3: Project Context File
+### Project Context File
 
 ```bash
 # 5-minute setup: download template, paste prompt into AI, get customized AGENTS.md
@@ -73,7 +71,7 @@ curl -O https://raw.githubusercontent.com/droptica/drupal-agents-md/main/AGENTS-
 
 Works with: Cursor, Copilot, Claude Code, Codex, Aider, Gemini CLI, Roo Code, Zed, Devin.
 
-### Step 4: MCP Servers
+### MCP Servers
 
 ```bash
 # DDEV MCP bridge (Drush, Playwright, platform.sh)
@@ -86,7 +84,7 @@ npm install -g @playwright/mcp
 npm install -g drupal-tools-mcp  # Cleversoft-IT
 ```
 
-### Step 5: Drupal Modules (Core AI Framework)
+### Drupal Modules (Core AI Framework)
 
 ```bash
 composer require drupal/ai           # Core framework, 48+ providers ★★★★★
