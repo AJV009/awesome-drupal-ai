@@ -126,6 +126,7 @@ Skills in [SKILL.md format](https://agentskills.io/specification) work across 30
 - [Omedia/drupal-skill](https://github.com/Omedia/drupal-skill) — 3 skills (frontend, backend, tooling) with references and assets ★★
 - [nonzod/drupaldev-claude-skill](https://github.com/nonzod/drupaldev-claude-skill) — Coding standards organized by language (PHP, Twig, CSS, JS, YAML, SQL) ★★
 - [droptica/drupal-agents-md](https://github.com/droptica/drupal-agents-md) — AGENTS.md template for Drupal projects; 10+ tool support; 5-min setup ★★★★
+- [drupaltools/skills](https://github.com/drupaltools/skills) — A collection of AI Skills and Agents for Drupal development ★★★★
 
 ### Context Files
 
